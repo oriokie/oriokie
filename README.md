@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=oriokie&label=Profile%20views&color=0e75b6&style=flat)
 # Hi there 👋, I'm Kenyansa Edwin Orioki
 ### I'm a dedicated Software Engineer
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=oriokie&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
